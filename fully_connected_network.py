@@ -17,7 +17,7 @@ training_steps = 30000
 moving_average_decay = 0.99
 
 model_save_path = './model_path/'
-model_name = 'model.ckpt'
+model_name = 'fully_connected_model.ckpt'
 
 
 def train(mnist):
